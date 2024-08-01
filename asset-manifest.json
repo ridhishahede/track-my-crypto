@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ridhishahede/track-my-crypto/static/css/main.a464c792.css",
+    "main.js": "/ridhishahede/track-my-crypto/static/js/main.89592bcc.js",
+    "index.html": "/ridhishahede/track-my-crypto/index.html",
+    "main.a464c792.css.map": "/ridhishahede/track-my-crypto/static/css/main.a464c792.css.map",
+    "main.89592bcc.js.map": "/ridhishahede/track-my-crypto/static/js/main.89592bcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a464c792.css",
+    "static/js/main.89592bcc.js"
+  ]
+}
