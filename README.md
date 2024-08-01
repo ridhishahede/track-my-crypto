@@ -1,6 +1,6 @@
 # Crypto-Tracker
 ## Live-Demo
-<p> https://jiveshcryptotracker.netlify.app/</p>
+<p>https://ridhishahede.github.io/track-my-crypto/</p>
 
 ## About the Project
 <p> Built the crypto tracker using HTML, CSS, and JavaScript, ensuring compatibility across various web browsers and devices.</p>
